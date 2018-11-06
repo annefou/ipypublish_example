@@ -1,0 +1,19 @@
+INFO:main:started ipypublish v0.6.7 at Sun Nov  4 03:08:37 2018
+INFO:main:logging to: /mnt/data/teachers/annefou/converted/report_example.nbpub.log
+INFO:main:running for ipynb(s) at: report_example.ipynb
+INFO:main:with conversion: latex_ipypublish_all
+INFO:nbmerge:Reading notebook
+INFO:main:getting output format from exporter plugin
+INFO:nbexport:running nbconvert
+INFO:latex_doc_defaults:adding ipub defaults to notebook
+INFO:split_outputs:splitting outputs into separate cells
+INFO:latex_doc_links:resolving external file paths in ipub metadata to: report_example.ipynb
+INFO:latex_doc_captions:extracting caption cells
+INFO:main:outputting converted file to: /mnt/data/teachers/annefou/converted/report_example.tex
+INFO:main:dumping external files to: /mnt/data/teachers/annefou/converted/report_example_files
+INFO:main:running pdf conversion
+INFO:pdfexport:running: latexmk -xelatex -bibtex -pdf --interaction=batchmode <outpath>
+INFO:pdfexport:latexmk: Latexmk: This is Latexmk, John Collins, 17 Jan. 2018, version: 4.55.
+INFO:pdfexport:latexmk: Latexmk: All targets (report_example.pdf) are up-to-date
+INFO:pdfexport:pdf conversion complete
+INFO:main:process finished successfully

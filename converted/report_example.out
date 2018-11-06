@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{General structure}{}% 1
+\BOOKMARK [1][-]{section.2}{How to generate pdf report}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Markdown}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Add a report title}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Hide a cell output}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Add a latex reference}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Figures}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{cite a paper}{subsection.2.4}% 8
+\BOOKMARK [2][-]{subsection.2.5}{Generate pdf with nbpublish}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Import python packages}{}% 10
+\BOOKMARK [1][-]{section.4}{Data and Methods}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Read Data}{section.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Select the nearest date}{subsection.4.1}% 13
+\BOOKMARK [1][-]{section.5}{Results}{}% 14
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 15
+\BOOKMARK [1][-]{section.7}{Acknowledgments}{}% 16
+\BOOKMARK [1][-]{section.8}{References}{}% 17

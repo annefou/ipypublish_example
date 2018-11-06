@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allan(2000)]{allan:2000}
+R.~J. Allan.
+\newblock {ENSO and Climatic Variability in the Last 150 years}.
+\newblock In H.~F. Diaz and V.~Markgraf, editors, \emph{{El Ni\~no and the
+  Southern Oscillation: Multiscale Variability, Global and Regional Impacts}},
+  pages 3--56. Cambridge University Press, Cambridge, UK, 1st edition, 2000.
+
+\end{thebibliography}
