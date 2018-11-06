@@ -1,4 +1,4 @@
-INFO:main:started ipypublish v0.6.7 at Sun Nov  4 03:08:37 2018
+INFO:main:started ipypublish v0.6.7 at Tue Nov  6 20:43:56 2018
 INFO:main:logging to: /mnt/data/teachers/annefou/converted/report_example.nbpub.log
 INFO:main:running for ipynb(s) at: report_example.ipynb
 INFO:main:with conversion: latex_ipypublish_all

@@ -478,6 +478,10 @@ INPUT ./report_example_files/output_15_0.png
 INPUT ./report_example_files/output_15_0.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplbi8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplbi8r.tfm
+INPUT ./report_example_files/output_17_0.png
+INPUT ./report_example_files/output_17_0.png
+INPUT ./report_example_files/output_17_0.png
+INPUT ./report_example_files/output_17_0.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
